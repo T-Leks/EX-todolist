@@ -42,7 +42,7 @@ def del_task(delete_name):
     except Exception as err:
         print("Error: %s" % err)
 
-#UI
+#UI zone
 get_task()
 
 print("(Add Task Press: \"1\")   :   (Delete Task Press: \"2\")")
